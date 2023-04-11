@@ -1,0 +1,3 @@
+[submodule "apps/nativescript-movil"]
+	path = apps/nativescript-movil
+	url = git@github.com:harikasin/nx-nativescript-movil.git
